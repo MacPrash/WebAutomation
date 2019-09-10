@@ -11,5 +11,3 @@ Steps to Run the code:
 6.Close all the Microsoft related applications along with visual studio and you will receive pop-up(Step5.png), install it and      open the visual studio.
 7.Rebuild the solution and Run the test from test explorer.
 
-Note: System.Threading.Thread.Sleep() is used to induce the sleep at some places which make code execution slowly, wait for sometime if no actions happen on the browser screen this is becasue of the delay induced by explicit wait. This issue will be solved in the future releases. 
-
