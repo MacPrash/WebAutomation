@@ -1,5 +1,5 @@
 # WebAutomation
-Basic Test Case Automation
+Automation of GlassLewis Website:
 
 Steps to Run the code:
 
